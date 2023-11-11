@@ -1,0 +1,4 @@
+juste ouvre un cmd (en admin si ça marche pas) tu cd dans ce dossier et fait cette commande:
+
+smi.exe inject -p BrokeProtocol -a BrokeProtocolClient.dll -n BrokeProtocolClient -c Loader -m Load
+

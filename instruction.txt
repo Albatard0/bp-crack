@@ -1,0 +1,21 @@
+Eng_
+(disable WINDOWS DEFENDER) if module bug
+
+Copy 0Harmony.dll into Brokeprotocol/BrokeProtocol_Data/Managed but don't 
+remove from directory base
+
+open bp
+open injector.bat
+enjoy
+
+Fra_
+(désactiver WINDOWS DEFENDER) en cas de bug
+
+Copiez 0Harmony.dll dans Brokeprotocol/BrokeProtocol_Data/Managed mais 
+ne le supprimez pas du dossier de base
+
+ouvrir bp
+ouvrir injector.bat
+profiter
+
+BP CLIENT Made By Specter and Salu77
